@@ -1,0 +1,7 @@
+logs
+plugins
+__pycache__
+.env
+.venv
+data
+notebook.ipynb
